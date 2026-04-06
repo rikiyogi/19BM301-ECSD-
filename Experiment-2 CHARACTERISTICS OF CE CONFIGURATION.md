@@ -28,16 +28,23 @@ Formula:
 
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
 # Circuit Diagram and Model Graph:
+![WhatsApp Image 2026-04-06 at 20 29 16](https://github.com/user-attachments/assets/1cca6993-517a-46be-9725-985808be71cf)
 
 
 
 # Tabular Column & Calculation:
+![WhatsApp Image 2026-04-06 at 20 32 39](https://github.com/user-attachments/assets/ccd49fb5-f03c-450e-8cb5-2af4f1fc59b9)
+![WhatsApp Image 2026-04-06 at 21 16 07](https://github.com/user-attachments/assets/2c6a9f24-43a0-4daa-9793-aaa584985175)
 
 
 # Graph:
+![WhatsApp Image 2026-04-06 at 20 33 27](https://github.com/user-attachments/assets/1a1e198a-1556-4786-ad60-0a7e27fc2e66)
+![WhatsApp Image 2026-04-06 at 20 29 17](https://github.com/user-attachments/assets/cad38581-e445-4571-8779-027f39a4249f)
+![WhatsApp Image 2026-04-06 at 21 16 07 (1)](https://github.com/user-attachments/assets/87c052f5-2037-49f1-9872-60a1f7efe610)
 
 
 # Result:
+![WhatsApp Image 2026-04-06 at 20 29 17 (1)](https://github.com/user-attachments/assets/295f0a1f-0349-4af8-b5b4-1b38cb4fbe5c)
 
 
 
